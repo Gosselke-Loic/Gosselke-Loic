@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Gosselke-Loic
-- 👀 I’m interested in Front-End
-- 🌱 I’m currently learning Html/Css/JS
+-  Hi, I’m @Gosselke-Loic
+- 👀 I’m interested in Frontend
+- 🌱 I’m currently learning Next.js/Websocket/Solid.js
 - 💞️ I’m looking to collaborate on anything.
 - 📫 How to reach me? By Owl
 
