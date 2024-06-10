@@ -1,8 +1,7 @@
 -  Hi, I’m @Gosselke-Loic
-- 👀 I’m interested in Frontend
-- 🌱 I’m currently learning Next.js/Websocket/Solid.js
+- 👀 I’m interested in video game development, engine development and IA.
+- 🌱 I’m currently C/C++
 - 💞️ I’m looking to collaborate on anything.
-- 📫 How to reach me? By Owl
 
 <!---
 Gosselke-Loic/Gosselke-Loic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
