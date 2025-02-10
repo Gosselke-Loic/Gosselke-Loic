@@ -1,6 +1,6 @@
--  Hi, I’m @Gosselke-Loic
-- 👀 I’m interested in video game development, engine development and IA.
-- 🌱 I’m currently learning C/C++ at Lausanne 42 school.
+- Hi, I’m Loic Gosselke and i love games, animals and reading books/manga.
+- I’m interested in video game development, engine development and IA.
+- I have finished my common core at 42 lausanne and i'm currently looking for an internship.
 
 <!---
 Gosselke-Loic/Gosselke-Loic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
