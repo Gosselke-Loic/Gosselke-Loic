@@ -1,5 +1,5 @@
 - Hi, I’m Loic Gosselke and i love games, animals and reading books/manga.
-- I’m interested in video game development, engine development and IA.
+- I’m interested in game development, web/mobile development and IA.
 - I have finished my common core at 42 lausanne and i'm currently looking for an internship.
 
 <!---
