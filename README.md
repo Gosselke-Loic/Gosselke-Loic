@@ -10,7 +10,7 @@ I am a software engineer focused on web developement.
 
 - **Languages:** JavaScript/TypeScript, Python , C/C++
 - **Frontend:** React, Tanstack, Zustand, Tailwind CSS, Zod
-- **Backend:** Node.js, NestJS, PostgreSQL, Sequilize
+- **Backend:** Node.js, NestJS, PostgreSQL, Sequelize
 - **DevOps & Tools:** pnpm, Docker, Vitest/Jest
 
 ---
