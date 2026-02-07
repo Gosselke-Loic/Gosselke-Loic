@@ -1,12 +1,12 @@
-# Hi there, I'm Loic Gosselke! 👋
+# Hi there, I'm Loic Gosselke!
 
-### 🚀 Fullstack Developer | [React/Angular & Node.js Specialist]
+### Fullstack Developer | [React/Angular & Node.js Specialist]
 
 I am a software engineer focused on web developement.
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 - **Languages:** JavaScript/TypeScript, Python , C/C++
 - **Frontend:** React, Tanstack, Zustand, Tailwind CSS, Zod
@@ -15,7 +15,7 @@ I am a software engineer focused on web developement.
 
 ---
 
-### 🔭 Currently Working On
+### Currently Working On
 - **Matcha**: A Web app like tinder built with React and Flask.
 
 ---
